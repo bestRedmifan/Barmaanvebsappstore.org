@@ -1,0 +1,11 @@
+[
+  {
+    "name": "brainHQ",
+    "description": "A good app with daily exercises and 4 exercises for free. If you want more services, you have to subscribe, but from this app store you're not allowed.",
+    "type": "PWA",
+    "price": 5,
+    "link": "https://www.brainhq.com",
+    "blocked": false,
+    "regionBlocked": []
+  }
+]
