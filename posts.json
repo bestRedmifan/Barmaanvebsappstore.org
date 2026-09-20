@@ -1,0 +1,38 @@
+[
+  {
+    "name": "brainHQ",
+    "description": "A good app with daily exercises and 4 exercises for free. If you want more services, you have to subscribe, but from this app store you're not allowed.",
+    "type": "PWA",
+    "price": 5,
+    "link": "https://www.brainhq.com",
+    "blocked": false,
+    "regionBlocked": []
+  },
+  {
+    "name": "دانلود ادا بازی پانتومیم",
+    "description": "این یک ادا بازی جذاب واسه اندروید است که قیمت اش 30¢ است",
+    "type": "Android",
+    "price": 30,
+    "download": "Adabazi.Pantomim.3.1.0_YasDL.com.apk",
+    "blocked": false,
+    "regionBlocked": []
+  },
+  {
+    "name": "Vclock",
+    "description": "A good clock web app use this!",
+    "type": "PWA",
+    "price": 15,
+    "link": "https://www.vclock.com",
+    "blocked": false,
+    "regionBlocked": []
+  },
+  {
+    "name": "Vclock",
+    "description": "a web app for iOS is clock just delete YOUR IOS clock!!",
+    "type": "iOS",
+    "price": 20,
+    "link": "https://www.vclock.com",
+    "blocked": false,
+    "regionBlocked": [ ]
+  }
+]
