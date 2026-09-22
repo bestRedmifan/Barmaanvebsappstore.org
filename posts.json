@@ -33,6 +33,6 @@
     "price": 20,
     "link": "https://www.vclock.com",
     "blocked": false,
-    "regionBlocked": [ ]
+    "regionBlocked": ["IR"]
   }
 ]
