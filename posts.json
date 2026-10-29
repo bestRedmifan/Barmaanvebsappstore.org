@@ -1,3 +1,4 @@
+
 [
   {
     "name": "brainHQ",
@@ -6,16 +7,20 @@
     "price": 5,
     "link": "https://www.brainhq.com",
     "blocked": false,
-    "regionBlocked": []
+    "regionBlocked": [],
+    "supportedCountry": [],
+    "ageLimit": "5+"
   },
   {
-    "name": "دانلود ادا بازی پانتومیم",
+    "name": " ادا بازی پانتومیم",
     "description": "این یک ادا بازی جذاب واسه اندروید است که قیمت اش 30¢ است",
     "type": "Android",
     "price": 30,
     "download": "Adabazi.Pantomim.3.1.0_YasDL.com.apk",
     "blocked": false,
-    "regionBlocked": []
+    "regionBlocked": [],
+    "supportedCountry": ["IR"],
+    "ageLimit": "5+"
   },
   {
     "name": "Vclock",
@@ -24,7 +29,9 @@
     "price": 15,
     "link": "https://www.vclock.com",
     "blocked": false,
-    "regionBlocked": []
+    "regionBlocked": [],
+    "supportedCountry": [],
+    "ageLimit": "5+"
   },
   {
     "name": "Vclock",
@@ -33,6 +40,8 @@
     "price": 20,
     "link": "https://www.vclock.com",
     "blocked": false,
-    "regionBlocked": []
+    "regionBlocked": ["IR"],
+    "supportedCountry": [],
+    "ageLimit": "5+"
   }
 ]
