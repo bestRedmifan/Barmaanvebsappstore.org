@@ -823,6 +823,13 @@ function countryState(app) {
     return "error";
   }
 
+  if (hasSupported) {
+  return supported.includes("all") ||
+         supported.includes(country)
+    ? "ok"
+    : "blocked";
+  }
+  
   if (hasBlocked) {
     return blocked.includes(country)
       ? "blocked"
