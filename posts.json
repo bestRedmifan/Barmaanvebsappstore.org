@@ -8,7 +8,7 @@
     "link": "https://www.brainhq.com",
     "blocked": false,
     "regionBlocked": [],
-    "supportedCountry": [],
+    "supportedCountry": ["all"],
     "ageLimit": "5+"
   },
   {
@@ -30,7 +30,7 @@
     "link": "https://www.vclock.com",
     "blocked": false,
     "regionBlocked": [],
-    "supportedCountry": [],
+    "supportedCountry": ["all"],
     "ageLimit": "5+"
   },
   {
